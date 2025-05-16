@@ -9,4 +9,4 @@ project offers a step-by-step learning experience.
 - [ ] [JavaScript-Essentials-for-React-Part-1](https://github.com/mrSamDev/ReactUpScaler/blob/main/JavaScript-Essentials-for-React-Part-1.md)
 - [ ] [Error Handling in JS](https://github.com/mrSamDev/ReactUpScaler/blob/main/Error-Handling-in-js.md)
 - [ ] [What is React](https://github.com/mrSamDev/ReactUpScaler/blob/main/What-is-React.md)
-- [ ] [React Re-renders](https://github.com/mrSamDev/ReactUpScaler/blob/main/React-re-renders.md)
+- [ ] [React Re-renders](https://github.com/mrSamDev/ReactUpScaler/blob/main/What-re-renders-react.md)
