@@ -190,7 +190,7 @@ Okay, so how do you find these unnecessary re-renders if you suspect they're hap
     - Figure out the cause.
     - Focus your fixing efforts where they'll do the most good.
 
-###Wrapping Up
+### Wrapping Up
 
 So, to stop your React app from re-rendering too much, the main trick is to understand that React gets a bit jumpy with new objects, arrays, and functions (because of their ever-changing memory addresses). Using tools like `React.memo` (for components), `useMemo` (for objects/arrays), and `useCallback` (for functions) helps keep things stable and tells React, "Only re-render if something _truly_ important changed."
 
